@@ -1,0 +1,8 @@
+C:\Repositories\ContainsFunction\ContainsFunction\bin\Debug\ContainsFunction.exe.config
+C:\Repositories\ContainsFunction\ContainsFunction\bin\Debug\ContainsFunction.exe
+C:\Repositories\ContainsFunction\ContainsFunction\bin\Debug\ContainsFunction.pdb
+C:\Repositories\ContainsFunction\ContainsFunction\obj\Debug\ContainsFunction.csproj.AssemblyReference.cache
+C:\Repositories\ContainsFunction\ContainsFunction\obj\Debug\ContainsFunction.csproj.SuggestedBindingRedirects.cache
+C:\Repositories\ContainsFunction\ContainsFunction\obj\Debug\ContainsFunction.csproj.CoreCompileInputs.cache
+C:\Repositories\ContainsFunction\ContainsFunction\obj\Debug\ContainsFunction.exe
+C:\Repositories\ContainsFunction\ContainsFunction\obj\Debug\ContainsFunction.pdb
